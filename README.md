@@ -4,6 +4,16 @@
 
 This repo contains example analyses conducted by Defenders of Wildlife using the Google Earth Engine platform.
 
+## Automated Change Detection
+
+We have developed several publicly available apps using the Google Earth Engine App Developer focusing on automatically mapping and quantifying changes to the landscape over time.  The first of these assesses deforestation due to [Logging over time on Prince of Wales Island in the Tongass National Forest](https://defendersofwildlifegis.users.earthengine.app/view/powdeforestation)
+
+<div>
+  <img src = "/michael.jpg"/>
+</div>
+
+Another example measured coastal habitat loss for several Threatened and Endangered species following [Hurricane Michael](https://defendersofwildlifegis.users.earthengine.app/view/hurricanemichael)
+
 ## Landscape Classification
 ### Ground mounted solar panels in North Carolina
 
